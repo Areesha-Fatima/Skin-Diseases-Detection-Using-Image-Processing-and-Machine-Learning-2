@@ -1,4 +1,4 @@
-# 🩺 Skin Disease Detection Web App — Backend & Database
+# 🩺 Skin Diseases Detection Using Image Processing and Machine Learning Website - Backend & Database
 
 > Node.js + FastAPI backend with MongoDB integration for the AI-powered skin disease detection platform. Built as a Final Year Project (FYP) and funded by the **Ignite National Technology Fund**.
 
